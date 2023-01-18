@@ -66,15 +66,32 @@ Console.WriteLine("-----------------------");
 
 ➢ รันโปรแกรมและบันทึกผล
 
- 
-👷 จากจ้อ 14 ให้เขียนโปรแกรมเพื่อสร้างตารางความจริงของลอจิกดังต่อไปนี้
+ ![Screenshot 2566-01-18 at 15 45 18](https://user-images.githubusercontent.com/115066261/213124890-3393059f-2cae-4704-aa5e-e68b6cf96c4c.png)
+
+👷 จากข้อ 14 ให้เขียนโปรแกรมเพื่อสร้างตารางความจริงของลอจิกดังต่อไปนี้
 
 1. `AND`
+
+ ![Screenshot 2566-01-18 at 15 45 18](https://user-images.githubusercontent.com/115066261/213124890-3393059f-2cae-4704-aa5e-e68b6cf96c4c.png)
+
 2. `OR`
+
+![Screenshot 2566-01-18 at 15 44 27](https://user-images.githubusercontent.com/115066261/213124666-e559b5c8-faf4-4633-beee-e038c040bbb8.png)
+
 3. `NOT`
+
+![Screenshot 2566-01-18 at 15 50 46](https://user-images.githubusercontent.com/115066261/213125978-86d02beb-a8f6-46a7-8d3b-0adf22c87040.png)
+
 4. `NAND`
+
+![Screenshot 2566-01-18 at 15 57 49](https://user-images.githubusercontent.com/115066261/213127452-6a7acc00-ffa7-4d79-839d-bcf8d230e80c.png)
+
 5. `NOR`
+
+![Screenshot 2566-01-18 at 15 59 50](https://user-images.githubusercontent.com/115066261/213127866-bbd9fd00-277c-498e-95df-e5d4a537e563.png)
+
 6. `Exclusive OR`
 
+![Screenshot 2566-01-18 at 15 53 38](https://user-images.githubusercontent.com/115066261/213126561-1adf511c-c768-4e6b-86d7-4e5dd4d49f72.png)
 
 ## [ชนิดข้อมูลตัวเลขจำนวนเต็ม (Integer Types)](./Lab-01-part-15.md)
