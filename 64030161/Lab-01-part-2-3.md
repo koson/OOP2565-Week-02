@@ -69,6 +69,7 @@ Console.WriteLine("World!");
   Hello Wrold อยู่ในบรรทัดเดียวกัน
 
 ❔ จงอธิบายความแตกต่างระหว่างคำสั่ง Console.Write() และ Console.WriteLine()
+
 = Console.Write จะแสดงผลข้อความตามที่กำหนดโดยจะไม่ขึ้นบรรทัดใหม่จนกว่าจะมีคำสั่ง เช่น \n หรือ Environment.NewLine
   Console.WriteLine จะแสดงผลข้อความตามที่กำหนดจากนั้นจะขึ้นบรรทัดใหม่
 
