@@ -20,7 +20,7 @@
 
 
 ---ผลการทดลอง<br>
-![](./Lab1-64030312/image/32.png)
+![](./image/32.png)
 
 
 ## ชนิดข้อมูลภายในภาษา C\#
@@ -60,49 +60,38 @@ Console.WriteLine("Minimum Value :" + (int) char.MinValue);
 Console.WriteLine("Maximum Value :" + (int) char.MaxValue);
 ```
 ---ผลการทดลอง `char`<br>
-![](./Lab1-64030312/image/33.png)
+![](./image/33.png)
 
 ---ผลการทดลอง `byte`<br>
-![](./Lab1-64030312/image/034.png)
-
+![](./image/034.png)
 ---ผลการทดลอง `short`<br>
-![](./Lab1-64030312/image/035.png)
- 
+![](./image/035.png)
 
 ---ผลการทดลอง `ushort`<br>
-![](./Lab1-64030312/image/036.png)
-
+![](./image/036.png)
  
 
 ---ผลการทดลอง `uint`<br>
-![](./Lab1-64030312/image/037.png)
-
+![](./image/037.png)
  
 
 ---ผลการทดลอง `float`<br>
-![](./Lab1-64030312/image/038.png)
- 
+![](./image/038.png)
 
 ---ผลการทดลอง `double`<br>
-![](./Lab1-64030312/image/039.png)
- 
+![](./image/039.png)
 ---ผลการทดลอง `decimal`<br>
-![](./Lab1-64030312/image/040.png)
- 
+![](./image/040.png)
 ---ผลการทดลอง `long`<br>
-![](./Lab1-64030312/image/041.png)
-
+![](./image/041.png)
 
 ---ผลการทดลอง `ulong`<br>
-![](./Lab1-64030312/image/042.png)
-
+![](./image/042.png)
 
 ---ผลการทดลอง `bool`<br>
-![](./Lab1-64030312/image/043.png)
-
+![](./image/043.png)
 ---ผลการทดลอง `sbyte`<br>
-![](./Lab1-64030312/image/044.png)
-
+![](./image/044.png)
 
 ## การใช้งานข้อมูลชนิดต่างๆ
 
@@ -138,5 +127,6 @@ Console.WriteLine(randomNumber);
 ```
  
 ให้รัน 10 ครั้งแล้วบันทึกค่าที่ได้จากการรัน
+
 
 ## [การเขียนโปรแกรมด้วยตัวดำเนินการทางตรรกะ](./Lab-01-part-14.md)
