@@ -6,6 +6,7 @@
 
 ## Lab 01
 
+
 ### - [Basic CSharp Language](./Lab-01-part-1.md)
 ### - [ คำสั่ง Console.Write()](./Lab-01-part-2-3.md)
 ### - [จำนวนของอาร์กิวเมนต์ในคำสั่ง Console.WriteLine()](./Lab-01-part-4.md)
@@ -17,7 +18,7 @@
 ### - [ชนิดข้อมูลตัวเลขจำนวนเต็ม (Integer Types)](./Lab-01-part-15.md)
 
 
-
+123
 
 
 
